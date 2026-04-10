@@ -1,0 +1,14 @@
+{
+  "name": "ton-bot",
+  "version": "1.0.0",
+  "description": "Telegram Miniapp with TON Referral System",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cd backend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "start": "cd backend && npm start"
+  },
+  "keywords": ["telegram", "ton", "referral", "bot"],
+  "author": "Osmel115",
+  "license": "MIT"
+}
